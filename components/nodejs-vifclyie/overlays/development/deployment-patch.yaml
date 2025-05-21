@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/nodejs-vifclyie:22faad96e613acc82cd159bf7f11192f56f1a114@sha256:f545e74a6029136fa9b8e860062eb6a3716ed46ecbe439415a3f6619deece230
+        - image: quay.io/quay_xjiang/nodejs-vifclyie:1bcaf96f0ee246403874eaa1994d0a808a19d05c@sha256:8a2bf62b03950b4dcc2a1770cffd063aa58f9cadb44986b1d062cb04b7659058
           name: container-image
